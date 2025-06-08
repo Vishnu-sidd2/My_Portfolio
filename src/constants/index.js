@@ -286,9 +286,8 @@ const projects = [
         },
         // You could add other tags if relevant, e.g., "authentication", "crud"
     ],
-    image: crm_dashboard_screenshot, // Placeholder: You'll replace 'crm_dashboard_screenshot' with the actual import for your project's image
+    image: ytclone, // Placeholder: You'll replace 'crm_dashboard_screenshot' with the actual import for your project's image
     source_code_link: "https://github.com/Vishnu-sidd2/React--app-",
-    live_site_link: "https://react-crm-app-gamma.vercel.app/", // IMPORTANT: Replace this with the actual link once deployed
 }
 
 ];
