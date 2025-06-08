@@ -267,6 +267,28 @@ const projects = [
   ],
   image: ytclone, // replace with your imported image
   source_code_link: "https://github.com/Vishnu-sidd2/youtube-clone",
+},{
+    name: "CRM System Dashboard",
+    description:
+        "Developed a robust CRM Dashboard web application to streamline product inventory management and enhance user interaction. Features secure user authentication with public/private routing. The interactive dashboard provides **key business insights through data visualizations, including a dynamic graph (and can be extended for pie charts/other analytics)**. A comprehensive Product Management module enables full CRUD (Create, Read, Update, Delete) operations for products. Built to offer a responsive and intuitive user experience.",
+    tags: [
+        {
+            name: "reactjs",
+            color: "blue-text-gradient",
+        },
+        {
+            name: "redux-toolkit",
+            color: "green-text-gradient",
+        },
+        {
+            name: "restapi", // As you're using dummyjson.com as a REST API
+            color: "pink-text-gradient",
+        },
+        // You could add other tags if relevant, e.g., "authentication", "crud"
+    ],
+    image: crm_dashboard_screenshot, // Placeholder: You'll replace 'crm_dashboard_screenshot' with the actual import for your project's image
+    source_code_link: "https://github.com/Vishnu-sidd2/React--app-",
+    live_site_link: "https://react-crm-app-gamma.vercel.app/", // IMPORTANT: Replace this with the actual link once deployed
 }
 
 ];
