@@ -286,8 +286,9 @@ const projects = [
         },
         // You could add other tags if relevant, e.g., "authentication", "crud"
     ],
-    image: Screenshot 2025-06-08 220836, // Placeholder: You'll replace 'crm_dashboard_screenshot' with the actual import for your project's image
-    source_code_link: "https://github.com/Vishnu-sidd2/React-CRM-app-",
+  image: "Screenshot 2025-06-08 220836", // Placeholder
+source_code_link: "https://github.com/Vishnu-sidd2/React-CRM-app-"
+
 }
 
 ];
